@@ -5,7 +5,7 @@ import HorizontalCard from './Cards/HorizontalCard';
 
 function App() {
   const initialImage = (
-    'https://github.com/LexusIgnatenko/ra_5_cards/blob/main/src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg?raw=true'
+    'https://raw.githubusercontent.com/LexusIgnatenko/ra_5_cards/main/src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg'
     // 'src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg'
   );
   return (
