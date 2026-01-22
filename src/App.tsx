@@ -5,7 +5,8 @@ import HorizontalCard from './Cards/HorizontalCard';
 
 function App() {
   const initialImage = (
-    'src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg'
+    'https://github.com/LexusIgnatenko/ra_5_cards/blob/main/src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg?raw=true'
+    // 'src/assets/mathias-reding-ACQmG9zn1EY-unsplash.jpg'
   );
   return (
     <div className="container py-5">
